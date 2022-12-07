@@ -1,0 +1,39 @@
+* {
+   box-sizing: border-box;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   background: linear-gradient(rgba(0, 0, 0, 0.753), rgba(255, 255, 255, 0)), url(/images/sliders/bg.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+img {
+   max-width: 100%;
+}
+
+ul,
+li {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+/* .svg__sprite {
+   align-items: center;
+   display: flex;
+   color: red;
+   height: 3rem;
+   justify-content: center;
+   line-height: 0;
+   width: 3rem;
+} */
