@@ -1,5 +1,4 @@
 "use strict";
-
 const boxes = document.querySelectorAll(".container__box");
 
 boxes.forEach(function (box) {
